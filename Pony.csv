@@ -1,0 +1,8 @@
+Code, Description
+H, “Header” record that describes the race card. There is only one header record per file.
+R, “Race” record contains information about each race. There is one “R” record for each race run on the card that day.
+S, “Starter” record contains information about each starter on the card.
+E," “Exotic Wagering” record contains information about all exotic wagers on the	card. Win"
+A," “Attendance” record contains information about the attendance and handle	wagered on the card."
+C, “Comment” record contains a comment about extra ordinary events occurring for a chart. Such things as late medication disqualifications or a race being declare unofficial because of a malfunction with the starting gate
+F, “Footnote” record contains the chart footnote.
